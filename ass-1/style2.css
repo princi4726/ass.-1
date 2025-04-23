@@ -1,0 +1,24 @@
+.box{
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    justify-content: center;
+    background-color: rgb(222, 164, 174);
+    font-size: xx-large;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(237, 139, 156);
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+
+body{
+    background-color: rgb(229, 153, 210);
+}
